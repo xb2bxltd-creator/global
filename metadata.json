@@ -1,0 +1,8 @@
+{
+  "name": "XB2BX Global Marketplace",
+  "description": "Premium B2B cross-border marketplace with Gemini AI Trade Intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
